@@ -1,5 +1,3 @@
-![](profile/images/locatethem.jpeg)
-
 ## Hey there! 
 
 *В камине в шесть утра, Фотография твоя*<br>
