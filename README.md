@@ -16,7 +16,7 @@
 </a>
 
 
-<img src="profile/images/side/music-removebg.jpeg" align=right width="35%">
+<img src="profile/images/side/music-removebg.png" align=right width="35%">
 
 ### About me ✨
 I'm **EclypseSolaire** *or* **eclyline** (but you can call me "Damian" - it's my name). 😁
