@@ -11,10 +11,6 @@
 <a href="https://instagram.com/eclyline" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C12584&logoColor=DBDBDB&labelColor=&style=for-the-badge">
 </a>
-<a href="mailto:damjan.acma@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=b71620&logoColor=DBDBDB&labelColor=&style=for-the-badge">
-</a>
-
 
 <img src="profile/images/side/music-removebg.png" align=right width="35%">
 
