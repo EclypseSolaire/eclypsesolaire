@@ -15,7 +15,7 @@
 <img src="profile/images/side/music-removebg.png" align=right width="35%">
 
 ### About me ✨
-I'm **EclypseSolaire** *or* **eclyline** (but you can call me "Damian"/"Damjan" - it's my name). 😁
+I'm **EclypseSolaire** *or* **eclyline**. 😁
 
 **15 (soon to be 16) years old**, high school student (studying **digital and computer science** & **engineering science**). 🔭
 
